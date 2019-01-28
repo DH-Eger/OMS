@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI SYSTEM "./tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ómagyar Mária-siralom</title>
+            </titleStmt>
+            <editionStmt>
+                <edition>Kritikai kiadás</edition>
+                <respStmt>
+                    <resp xml:lang="hu">szerkesztette:
+					</resp>
+                    <resp xml:lang="en">editor:
+					</resp>
+                    <persName>
+                        <surname>Kalcsó</surname>
+                        <forename>Gyula</forename>
+                    </persName>
+                    <persName>
+                        <surname>Maróthy</surname>
+                        <forename>Szilvia</forename>
+                    </persName>
+                </respStmt>
+
+            </editionStmt>
+            <publicationStmt>
+                <p>Jelen kiadás a <bibl><title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+                            <forename>Iván</forename>
+                        </editor>
+                        <editor>
+                            <surname>Maróthy</surname>
+                            <forename>Szilvia</forename>
+                        </editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+                    </bibl> XML forrásának felhasználásával készült</p>
+                <publisher>
+                    <orgName>Eszterházy Károly Egyetem</orgName>
+                    <orgName>Digitális Bölcsészeti Kutatócsoport</orgName>
+                </publisher>
+                <pubPlace>Eger</pubPlace>
+                <date when-iso="2018">2019</date>
+                <availability>
+                    <licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <p xml:lang="en">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</p>
+                        <p xml:id="hun">A mű a Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi Licenc alatt van.</p>
+                        <ref style="border-width:0" target="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="forrasBibl">
+                    <title ref="http://nyelvemlekek.oszk.hu/adatlap-dupla/leuveni_kodex_%E2%80%93_omagyar_mariasiralom">Leuveni kódex</title>,
+					<orgName ref="//viaf.org/viaf/137912193">Országos Széchényi Könyvtár</orgName>,
+					<idno>MNy 79</idno>, 134v
+				</bibl>
+                <listBibl xml:id="kritikaiBibl">
+                    <bibl xml:id="oms1">
+                        <title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+                            <forename>Iván</forename>
+                        </editor>
+                        <editor>
+                            <surname>Maróthy</surname>
+                            <forename>Szilvia</forename>
+                        </editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+                    </bibl>
+                    <bibl xml:id="kB01">Vizkelety András 2004: Az európai prédikációirodalom recepciója a Leuveni kódexben – Die Rezeption der europäischen Sermonesliteratur im „Löwener Kodex”, Bp., Akadémiai Kiadó (Fragmenta et codices in bibliothecis Hungariae, IV).</bibl>
+                    <bibl xml:id="kB02">Pais Dezső 1942: [Mária siralmának olvasása és értelmezése] = Horváth János (szerk.) 1942 (második kiadás): Magyar versek könyve, Bp., Magyar Szemle Társaság, 33.</bibl>
+                    <bibl xml:id="kB03">Németh László 1942: Kisebbségben, I–II, Bp., Magyar Élet kiadása.</bibl>
+                    <bibl xml:id="kB04">Czuczor–Fogarasi: A magyar nyelv szótára, szerk. Czuczor Gergely, Fogarasi János, Pest, Athenaeum, 1862–1874.</bibl>
+                    <bibl xml:id="kB05">A. Molnár 2003: Az Ómagyar Mária-siralom olvasata és értelmezése = A. Molnár – M. Nagy 2003: 55–76.</bibl>
+                    <bibl xml:id="kB06">Benkő 1980: Az Árpád-kor magyar nyelvű szövegemlékei, Bp., Akadémiai Kiadó..</bibl>
+                    <bibl xml:id="kB07">TESz: A ​magyar nyelv történeti-etimológiai szótára, főszerk. Benkő Loránd, Bp., Akadémiai Kiadó, 1995.</bibl>
+                    <bibl xml:id="kB08">Horváth Iván 2006: Gépeskönyv, Bp., Balassi, 2006.</bibl>
+                    <bibl xml:id="kB09">Horváth Iván 2015: Ómagyar szövegemlékek mint textológiai tárgyak, Bp., OSZK (Információtörténeti műhely). Elektronikus verzió (PDF):
+						<ref target="http://mek.oszk.hu/15400/15446">http://mek.oszk.hu/15400/15446</ref>
+                    </bibl>
+                    <bibl xml:id="kB10">Maróthy Szilvia 2014: A Christus poetico planctus (Ómagyar Mária-siralom) verstani tagolójelei, Irodalomtörténeti Közlemények, 118(2014)/1, 71–76.</bibl>
+                </listBibl>
+            </sourceDesc>
+            <notesStmt>
+                <note>
+                    <p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+                </note>
+                <note target="#oms1"><!-- Ez a korábbi kiadás jegyzete, amiből nem minden érvényes a mi kiadásunkra. De nem megbontani kéne, hanem a megjelenítésben úgy elkülöníteni, hogy világos legyen, hogy ez a másik kiadásnak a jegyzete, nem a mienké. Egyelőre most a title-be írtam ezt bele.-->
+                    <title type="main">A 2018-as kiadás (szerk. Hovráth--Maróthy) jegyzete</title>
+                    <title type="sub">A kiadásról</title>
+                    <p>Az Ómagyar Mária-siralom feltevésünk szerint saját kezű, szerzői kézirat.<note>
+							<ref target="#kB09">Horváth 2015</ref>: 53.</note>
+                    </p>
+                    <p>Az
+						<hi rend="italic">Ómagyar Mária-siralom</hi>, vagy régi-új nevén
+						<hi rend="italic">Christus poetice planctus</hi>
+                        <note>Cím a Leuveni kódex tartalomjegyzéke alapján.
+							<ref target="3.1.">Bővebben>></ref>
+                        </note>
+						XML alapú kritikai kiadásának készítésekor a szöveget irodalmi műnek tekintettük.</p>
+                    <p>Az átírás legnyersebb rétege az írásjelek sorrendjében közli a szöveget anélkül, hogy a jelkészlet elemeinek jelentését is megpróbálnók rekonstruálni. Ez a diplomatikai átírás.</p>
+                    <p>A betűhű kritikai kiadás a következő réteg. Ebben már tekintetbe vettük, hogy bizonyos írásjelek között a különbség csupán írástechnikai. A virgulák – független attól, hogy egyetlen vonásból, vagy két egymást metsző vonásból állnak – hol sorvégi
+						kötőjelek, hol pedig verssor-határ jelölői. Az előbbi esetben elhagyjuk őket, s csupán végrehajtjuk a kötőjellel kifejezett utasítást a szó összevonásával. Az utóbbi esetben gondolatjellel fejezzük ki a szerző azon szándékát, hogy a metrikai határt
+						megjelölje. Ugyanerre a sorsa jut a punctum is mint a versszak-határ explicit kifejezése.<note>
+							<ref target="#kB10">Maróthy 2014.</ref>
+                        </note>
+                    </p>
+                    <p>A mai befogadást segíti a modernizált helyesírású harmadik réteg, amely a szerző feltételezhető kiejtését igyekszik követni, kivéve azon hangokat, amelyek a mai magyar irodalmi nyelvből már kivesztek.</p>
+                    <p>A
+						<hi rend="italic">Christus poetice planctus</hi>
+						elég szorosan követte irodalmi mintáját,
+						<persName ref="//viaf.org/viaf/261910300">Godefridus de Sancto Victore</persName>
+                        <hi rend="italic">Planctus ante nescia</hi>
+						kezdetű költeményének rövid változatát, amelynek nagyon hibás másolata a Leuveni kódexben olvasható. A negyedik rétegben ezért a magyar költemény mellé a rövid latin változat szövegét helyeztük el, amelyet a
+						<persName ref="//viaf.org/viaf/73866279">Bernhard Bischoff</persName>
+						által gondozott kritikai kiadásból, a vers második részének elhagyásával nyertünk.</p>
+                    <p>Köszönetet mondunk A. Molnár Ferencnek, Korompay Klárának, Madas Editnek, Simoncsics Péternek értő és ösztönző bírálataikért, tanácsaikért, Peti Péternek (Tripont Kft.) és Földesi Ferencnek a fényképezésért. Külön köszönet az ELTE most
+						megszüntetett Reneszánsz tanulmányok mesterképzési szak két avatott hallgatójának, Keresztény Júliának és Vrabély Márknak.</p>
+                </note>
+            </notesStmt>
+        </fileDesc>
+        <encodingDesc>
+            <p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <docTitle>
+                <titlePart type="main" xml:lang="lat">Christus poetice planctus</titlePart>
+                <titlePart type="alt">Ómagyar Mária-siralom</titlePart>
+                <titlePart type="sub">Kritikai kiadás</titlePart>
+            </docTitle>
+            <div>
+                <list>
+                    <item xml:id="bh">A forrás jegyzetapparátussal ellátott betűhű kritikai szövege.</item>
+                    <item xml:id="bsz">A forrás jegyzetapparátussal ellátott betű szerinti kritikai szövege.</item>
+                    <item xml:id="modern">A kritikai szöveg modernizált helyesírású, értelmező átirata.</item>
+                </list>
+            </div>
+        </front>
+        <body>
+            <div corresp="#bh" xml:lang="hu">
+                <head>
+                    <title ref="../vm-images/christusTitle.png">Christus poetice planctus<note>[Tollhiba? A forrásban a rövidítések feloldásával:] Christus poetico planctus [A költemény szerzői megnevezése – tehát címe – a Leuveni kódex 254r alapján.
+							<ref target="#kB01">Vizkelety András (2004</ref>: 140) második szövegjavítási feltevését fogadtuk el: „A poetico jelző mellé kívánkozik egy főnév (például modo, esetleg stylo poetico), vagy a melléknévből határozószót kellett volna kreálni
+							(poetice)”. Kiss Farkas Gábor azon alapuló szövegjavítási tanácsa, hogy az -us rövidítés farkának elhagyásával o-t kapnánk: poeticus planctus. (KFG szóbeli közlése.)]</note>
+                    </title>
+                </head>
+                <lg n="1">
+                    <l>
+						Volek ſyrolm thudothlon 
+					</l>
+                    <l>ſy<lb/>rolmol ſepedyk
+						<pc force="weak" type="met" unit="l">·</pc>
+                    </l>
+                    <l>buol oʒuk <lb/>epedek
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="2">
+                    <l>Walaſth vylagum<lb/>tul
+					</l>
+                    <l>
+						ſydou fyodumtul
+					</l>
+                    <l>eʒes
+						<lb/>urume<!-- rövidítés -->tuul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="3">
+                    <l>O en eſes urodu<!-- röv -->
+                        <lb/>
+                    </l>
+                    <l>eggen yg fyodum
+											<pc force="weak" type="met" unit="l">x</pc>
+                    </l>
+                    <l>
+					ſyrou a<pc part="I" force="strong">x</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>niath thekunched
+					</l>
+                    <l>buabeleul
+						<lb/>kyniuhhad
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="4">
+                    <l>Scemem kunuel
+						<lb/>arad
+					</l>
+                    <l>en iunhum buol farad
+						
+								<pc force="weak" type="met" unit="l">x</pc>
+                        <lb/>
+                    </l>
+                    <l>the werud hullothya
+					</l>
+                    <l>en iu<!-- röv -->
+                        <pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>hum olelothya
+					</l>
+                </lg>
+                <lg n="5">
+                    <l>Vylag uila<lb/>ga
+					</l>
+                    <l>viragnak uiraga
+						<pc force="weak" type="met" unit="l">·</pc>
+                    </l>
+                    <l>keſeru
+						<pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>en kynʒathul
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>uoſ ſcegegkel <lb/>werethul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="6">
+                    <l>Vh nequem en
+						<lb/>
+                        <choice>
+                            <sic>fyon</sic>
+                            <corr>fyom</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: fyon</note>
+                    </l>
+                    <l>eʒes meʒuul
+														<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>Scege<lb/>
+                        <pc force="strong">/</pc>nul
+						ſcepſegud
+					</l>
+                    <l>wirud hioll
+						<lb/>wyʒeul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="7">
+                    <l>Syrolmom fuha<lb/>
+                        <seg>/</seg>ʒatum
+					</l>
+                    <l>therthetyk kyul
+					</l>
+                    <l>en
+						<lb/>
+                        <choice>
+                            <sic>iumhumnok
+							</sic>
+                            <corr>iunhumnok
+							</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: iumhumnok</note>bel bua
+					</l>
+                    <l>qui
+						<note cert="low">quí [Írástechnikai változat]</note>
+                        <lb/>
+						ſumha nym
+						<del>kyul</del>
+                        <add>hyul</add>
+                        <note>Azonnali törlés.</note>
+                        <pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="8">
+                    <l>Wegh halal engumet
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+
+                    </l>
+                    <l>egge<pc force="strong">/</pc>
+                        <lb/>dum illen
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>maraggun uro<lb/>dum
+						<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kyth wylag
+						<choice>
+							<sic>felleyn</sic>
+                            <corr>fellyen</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: felleyn</note>
+                        <pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="9">
+                    <l>O ygoʒ ſymeonnok<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>beʒʒeg
+						<lb/>ſcouuo ere
+					</l>
+                    <l>en erʒem eʒ bu<pc force="strong">/</pc>
+                        <lb/>thuruth
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kyt niha egyre
+						<pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="10">
+                    <l>Tuled
+						<choice>
+							<sic>ualmun
+							</sic>
+                            <corr>ualnom
+							</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: ualmun</note>
+                        <pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>de num
+						<lb/>ualallal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>hul yg kynʒaſſal<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fyom halallal
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="11">
+                    <l>Sydou
+						<lb/>myth theʒ turuentelen
+							<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fyom merth hol byuntelen
+								<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fugwa
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>huʒtuʒwa wklel<pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>ue
+													<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kethwe
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>ulud
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="12">
+                    <l>Kegug<lb/>
+                        <pc force="strong">/</pc>gethuk fyomnok
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>ne leg
+						<lb/>kegulm mogomnok
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>owog
+						<lb/>halal kynaal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>anyath eʒes
+						<lb/>fyaal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>egembelu ullyetuk
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+            </div>
+            <div corresp="#bsz" xml:lang="hu">
+                <head>
+                    <title ref="../vm-images/christusTitle.png">Christus poetice planctus<note>[Tollhiba? A forrásban a rövidítések feloldásával:] Christus poetico planctus [A költemény szerzői megnevezése – tehát címe – a Leuveni kódex 254r alapján.
+							<ref target="#kB01">Vizkelety András (2004</ref>: 140) második szövegjavítási feltevését fogadtuk el: „A poetico jelző mellé kívánkozik egy főnév (például modo, esetleg stylo poetico), vagy a melléknévből határozószót kellett volna kreálni
+							(poetice)”. Kiss Farkas Gábor azon alapuló szövegjavítási tanácsa, hogy az -us rövidítés farkának elhagyásával o-t kapnánk: poeticus planctus. (KFG szóbeli közlése.)]</note>
+                    </title>
+                </head>
+                <lg n="1">
+                    <l>
+						Volek syrolm thudothlon 
+					</l>
+                    <l>sy<lb/>rolmol sepedyk
+						<pc force="weak" type="met" unit="l">·</pc>
+                    </l>
+                    <l>buol ozuk<lb/>epedek
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="2">
+                    <l>Walasth vylagum<lb/>tul
+					</l>
+                    <l>
+						sydou fyodumtul
+					</l>
+                    <l>ezes
+						<lb/>urume<ex>m</ex>tuul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="3">
+                    <l>O en eses urodu<ex>m</ex>
+                        <lb/>
+                    </l>
+                    <l>eggen yg fyodum
+											<pc force="weak" type="met" unit="l">x</pc>
+                    </l>
+                    <l>
+					syrou a<pc part="I" force="strong">x</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>niath thekunched
+					</l>
+                    <l>buabeleul
+						<lb/>kyniuhhad
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="4">
+                    <l>Scemem kunuel
+						<lb/>arad
+					</l>
+                    <l>en iunhum buol farad
+						
+								<pc force="weak" type="met" unit="l">x</pc>
+                        <lb/>
+                    </l>
+                    <l>the werud hullothya
+					</l>
+                    <l>en iu<ex>n</ex>
+                        <pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>hum olelothya
+					</l>
+                </lg>
+                <lg n="5">
+                    <l>Vylag uila<lb/>ga
+					</l>
+                    <l>viragnak uiraga
+						<pc force="weak" type="met" unit="l">·</pc>
+                    </l>
+                    <l>keseru
+						<pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>en kynzathul
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>uos scegegkel <lb/>werethul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="6">
+                    <l>Vh nequem en
+						<lb/>
+                        <choice>
+                            <sic>fyon</sic>
+                            <corr>fyom</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: fyon</note>
+                    </l>
+                    <l>ezes mezuul
+														<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>Scege<lb/>
+                        <pc force="strong">/</pc>nul
+						scepsegud
+					</l>
+                    <l>wirud hioll
+						<lb/>wyzeul
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="7">
+                    <l>Syrolmom fuha<lb/>
+                        <seg>/</seg>zatum
+					</l>
+                    <l>therthetyk kyul
+					</l>
+                    <l>en
+						<lb/>
+                        <choice>
+                            <sic>iumhumnok
+							</sic>
+                            <corr>iunhumnok
+							</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: iumhumnok</note>bel bua
+					</l>
+                    <l>qui
+						<note cert="low">quí [Írástechnikai változat]</note>
+                        <lb/>
+						sumha nym
+						<del>kyul</del>
+                        <add>hyul</add>
+                        <note>Azonnali törlés.</note>
+                        <pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="8">
+                    <l>Wegh halal engumet
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+
+                    </l>
+                    <l>egge<pc force="strong">/</pc>
+                        <lb/>dum illen
+						
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>maraggun uro<lb/>dum
+						<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kyth wylag
+						<choice>
+							<sic>felleyn</sic>
+                            <corr>fellyen</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: felleyn</note>
+                        <pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="9">
+                    <l>O ygoz symeonnok<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>bezzeg
+						<lb/>scouuo ere
+					</l>
+                    <l>en erzem ez bu<pc force="strong">/</pc>
+                        <lb/>thuruth
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kyt niha egyre
+						<pc force="weak" type="met" unit="lg">·</pc>
+                        <lb/>
+                    </l>
+                </lg>
+                <lg n="10">
+                    <l>Tuled
+						<choice>
+							<sic>ualmun
+							</sic>
+                            <corr>ualnom
+							</corr>
+                        </choice>
+                        <note>Tollhiba. A forrásban: ualmun</note>
+                        <pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>de num
+						<lb/>ualallal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>hul yg kynzassal<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fyom halallal
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="11">
+                    <l>Sydou
+						<lb/>myth thez turuentelen
+							<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fyom merth hol byuntelen
+								<pc force="weak" type="met" unit="l">/</pc>
+                        <lb/>
+                    </l>
+                    <l>fugwa
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>huztuzwa wklel<pc force="strong" part="I">/</pc>
+                        <lb/>
+                        <pc part="F" force="strong">/</pc>ue
+													<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>kethwe
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>ulud
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+                <lg n="12">
+                    <l>Kegug<lb/>
+                        <pc force="strong">/</pc>gethuk fyomnok
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>ne leg
+						<lb/>kegulm mogomnok
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>owog
+						<lb/>halal kynaal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>anyath ezes
+						<lb/>fyaal
+								<pc force="weak" type="met" unit="l">/</pc>
+                    </l>
+                    <l>egembelu ullyetuk
+						<pc force="weak" type="met" unit="lg">·</pc>
+                    </l>
+                </lg>
+            </div>
+            <div corresp="#modern" xml:lang="hu">
+                <head>
+                    <title>A versben elsiratott Krisztus<note>Vagy hibás latinsággal Christus. Poetico-planctus [Krisztus. Verses siralom]. A
+							<hi rend="italic">Christus poetico planctus</hi>
+							a költemény szerzői megnevezése – tehát címe – a Leuveni kódex 254r alapján.
+							<ref target="#kB01">Vizkelety András (2004:</ref>
+							140) második szövegjavítási feltevését fogadtuk el: „A poetico jelző mellé kívánkozik egy főnév (például modo, esetleg stylo poetico), vagy a melléknévből határozószót kellett volna kreálni (poetice)”.</note>
+                    </title>
+                </head>
+                <lg n="1">
+                    <l>Valék siralmtudatlan,</l>
+                    <l>siralmal sepedik,</l>
+                    <l>búal aszok, epedek.</l>
+                </lg>
+                <lg n="2">
+                    <l>Választ világomtúl,</l>
+                    <l>zsidó fiadomtúl,</l>
+                    <l>ézes ürümemtűl.</l>
+                </lg>
+                <lg n="3">
+                    <l>Ó, én ézes uradom,</l>
+                    <l>egyen igy fiadom,</l>
+                    <l>síró anyát teküntsed,</l>
+                    <l>búabelől kinyuhhad.<note>Kinyújtsad, 'kihúzzad' jelentésben.</note>
+                    </l>
+                </lg>
+                <lg n="4">
+                    <l>Szemem künyüel<note>A
+							<hi rend="italic">könyű</hi>
+							alakot a
+							<ref target="#kB04">Czuczor-Fogarasi</ref>
+							szótár még a korabeli irodalmi nyelv részének tartja.</note>
+						árad,</l>
+                    <l>én jonhom búal fárad,</l>
+                    <l>te vérüd hullatja</l>
+                    <l>én jonhom alélatja.</l>
+                </lg>
+                <lg n="5">
+                    <l>Világ világa,</l>
+                    <l>virágnak virága,</l>
+                    <l>keserűen kínzatul,</l>
+                    <l>vasszegekkel veretül.</l>
+                </lg>
+                <lg n="6">
+                    <l>Uh nekem, én fiam,</l>
+                    <l>ézes mézül,</l>
+                    <l>
+                        <w xml:id="szegeny">szegényül</w>
+                        <w xml:id="szegyen">szégyenül</w>
+                        <certainty locus="value" target="#szegeny" degree="0.5">
+                            <desc>A
+								<hi rend="italic">scegenul</hi>
+								egyaránt feloldható
+								<hi rend="italic">szegényül</hi>
+								és
+								<hi rend="italic">szégyenül</hi>
+								alakkal.
+							</desc>
+                        </certainty>
+                        <certainty locus="value" target="#szegyen" degree="0.5">
+                            <desc>A
+								<hi rend="italic">scegenul</hi>
+								egyaránt feloldható
+								<hi rend="italic">szégyenül</hi>
+								és
+								<hi rend="italic">szegényül</hi>
+								alakkal.
+															</desc>
+                        </certainty>
+						szépségüd,</l>
+                    <l>vírüd hull vízül.</l>
+                </lg>
+                <lg n="7">
+                    <l>Siralmam, fohászatom</l>
+                    <l>terjtetik<note>
+							<ref target="#kB02">Pais Dezső (1942</ref>: 33) a
+							<hi rend="italic">therthetyk</hi>
+							'terjed, mutatkozik' értelmezése nyomán.
+						</note>
+						kíül,</l>
+                    <l>én jonhomnak bel búa,</l>
+                    <l>ki somha<note>Alternatív alaki olvasatai:
+							<hi rend="italic">sümhá</hi>, vö.
+							<ref target="kB05">A. Molnár 2003</ref>, 59,
+							<ref target="kB06">Benkő 1980</ref>, 52.</note>
+                        <ref target="kB07">TESz</ref>
+						szerint
+						<hi rend="italic">*sëmha</hi>, vö. "Hangrendi hasonulással, továbbá denazalizálódással fejlődött." nüm hűl.</l>
+                </lg>
+                <lg n="8">
+                    <l>Végy halál engümet,</l>
+                    <l>egyedüm íljen,</l>
+                    <l>maradjon uradom,</l>
+                    <l>kit világ féljen.</l>
+                </lg>
+                <lg n="9">
+                    <l>Ó, igaz Simeonnak</l>
+                    <l>bezzeg szava ére:</l>
+                    <l>én érzem ez bútűrüt,</l>
+                    <l>kit níha egíre.</l>
+                </lg>
+                <lg n="10">
+                    <l>Tűled válnom,</l>
+                    <l>de nüm válállal,
+						<note>
+							<ref target="#kB03">Négyesy László (1927</ref>: 376) nyomán a
+							<hi rend="italic">ualallal</hi>
+							értelmezése: a
+							<hi rend="italic">válik</hi>
+							ige névszói alakjaként
+							<hi rend="italic">válállal</hi>. Jelentése 'válás, elválás', esetleg 'elbúcsúzás'.
+						</note>
+                    </l>
+                    <l>hol így kínzassál,</l>
+                    <l>fiam, halállal.</l>
+                </lg>
+                <lg n="11">
+                    <l>Zsidó, mit téssz, türvénytelen,</l>
+                    <l>fiam mert hal bűntelen:<note>Korompay Klára felvetését követve a
+							<hi rend="italic">byuntelen</hi>
+							[iü] diftongusát hosszú magánhangzóként írtuk át.</note>
+                    </l>
+                    <l>fogva,</l>
+                    <l>húztozva, üklelve,</l>
+                    <l>ketve</l>
+                    <l>ülüd.</l>
+                </lg>
+                <lg n="12">
+                    <l>Kegyüggyetük fiamnak,</l>
+                    <l>ne légy kegyülm magamnak,</l>
+                    <l>avagy halál kínáal,</l>
+                    <l>anyát ézes fiáal</l>
+                    <l>egyembelű üljétük!</l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>
