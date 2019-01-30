@@ -144,229 +144,229 @@
                 </head>
                 <lg n="1">
                     <l>
-						Volek ſyrolm thudothlon 
+						<w>Volek</w> <w>ſyrolm</w> <w>thudothlon</w>
 					</l>
-                    <l>ſy<lb/>rolmol ſepedyk
+                    <l><w>ſy<lb/>rolmol</w> <w>ſepedyk</w>
 						<pc force="weak" type="met" unit="l">·</pc>
                     </l>
-                    <l>buol oʒuk <lb/>epedek
+                    <l><w>buol</w> <w>oʒuk</w> <lb/><w>epedek</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="2">
-                    <l>Walaſth vylagum<lb/>tul
+                    <l><w>Walaſth</w> <w>vylagum<lb/>tul</w>
 					</l>
                     <l>
-						ſydou fyodumtul
+						<w>ſydou</w> <w>fyodumtul</w>
 					</l>
-                    <l>eʒes
-						<lb/>urume<!-- rövidítés -->tuul
+                    <l><w>eʒes</w>
+						<lb/><w>urum&#x0113;tuul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="3">
-                    <l>O en eſes urodu<!-- röv -->
+                    <l><w>O</w> <w>en</w> <w>eſes</w> <w>urod&#x016B;</w>
                         <lb/>
                     </l>
-                    <l>eggen yg fyodum
+                    <l><w>eggen</w> <w>yg</w> <w>fyodum</w>
 											<pc force="weak" type="met" unit="l">x</pc>
                     </l>
                     <l>
-					ſyrou a<pc part="I" force="strong">x</pc>
+					<w>ſyrou</w> <w>a<pc part="I" force="strong">x</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>niath thekunched
+                        <pc part="F" force="strong">/</pc>niath</w> <w>thekunched</w>
 					</l>
-                    <l>buabeleul
-						<lb/>kyniuhhad
+                    <l><w>buabeleul</w>
+						<lb/><w>kyniuhhad</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="4">
-                    <l>Scemem kunuel
-						<lb/>arad
+                    <l><w>Scemem</w> <w>kunuel</w>
+						<lb/><w>arad</w>
 					</l>
-                    <l>en iunhum buol farad
-						
+                    <l><w>en</w> <w>iunhum</w> <w>buol</w> <w>farad</w>
+
 								<pc force="weak" type="met" unit="l">x</pc>
                         <lb/>
                     </l>
-                    <l>the werud hullothya
+                    <l><w>the</w> <w>werud</w> <w>hullothya</w>
 					</l>
-                    <l>en iu<!-- röv -->
+                    <l><w>en</w> <w>i&#x016B;
                         <pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>hum olelothya
+                        <pc part="F" force="strong">/</pc>hum</w> <w>olelothya</w>
 					</l>
                 </lg>
                 <lg n="5">
-                    <l>Vylag uila<lb/>ga
+                    <l><w>Vylag</w> <w>uila<lb/>ga</w>
 					</l>
-                    <l>viragnak uiraga
+                    <l><w>viragnak</w> <w>uiraga</w>
 						<pc force="weak" type="met" unit="l">·</pc>
                     </l>
-                    <l>keſeru
+                    <l><w>keſeru
 						<pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>en kynʒathul
-						
+                        <pc part="F" force="strong">/</pc>en</w> <w>kynʒathul</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>uoſ ſcegegkel <lb/>werethul
+                    <l><w>uoſ</w> <w>ſcegegkel</w> <lb/><w>werethul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="6">
-                    <l>Vh nequem en
+                    <l><w>Vh</w> <w>nequem</w> <w>en</w>
 						<lb/>
                         <choice>
-                            <sic>fyon</sic>
-                            <corr>fyom</corr>
+                            <sic><w>fyon</w></sic>
+                            <corr><w>fyom</w></corr>
                         </choice>
                         <note>Tollhiba. A forrásban: fyon</note>
                     </l>
-                    <l>eʒes meʒuul
+                    <l><w>eʒes</w> <w>meʒuul</w>
 														<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>Scege<lb/>
-                        <pc force="strong">/</pc>nul
-						ſcepſegud
+                    <l><w>Scege<lb/>
+                        <pc force="strong">/</pc>nul</w>
+						<w>ſcepſegud</w>
 					</l>
-                    <l>wirud hioll
-						<lb/>wyʒeul
+                    <l><w>wirud</w> <w>hioll</w>
+						<lb/><w>wyʒeul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="7">
-                    <l>Syrolmom fuha<lb/>
-                        <seg>/</seg>ʒatum
+                    <l><w>Syrolmom</w> <w>fuha<lb/>
+                        <seg>/</seg>ʒatum</w>
 					</l>
-                    <l>therthetyk kyul
+                    <l><w>therthetyk</w> <w>kyul</w>
 					</l>
-                    <l>en
+                    <l><w>en</w>
 						<lb/>
                         <choice>
-                            <sic>iumhumnok
+                            <sic><w>iumhumnok</w>
 							</sic>
-                            <corr>iunhumnok
+                            <corr><w>iunhumnok</w>
 							</corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: iumhumnok</note>bel bua
+                        <note>Tollhiba. A forrásban: iumhumnok</note><w>bel</w> <w>bua</w>
 					</l>
-                    <l>qui
-						<note cert="low">quí [Írástechnikai változat]</note>
+                    <l><w>qui</w>
+						<note cert="low"><w>quí</w> [Írástechnikai változat]</note>
                         <lb/>
-						ſumha nym
-						<del>kyul</del>
-                        <add>hyul</add>
+						<w>ſumha</w> <w>nym</w>
+						<del><w>kyul</w></del>
+                        <add><w>hyul</w></add>
                         <note>Azonnali törlés.</note>
                         <pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="8">
-                    <l>Wegh halal engumet
-						
+                    <l><w>Wegh</w> <w>halal</w> <w>engumet</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
 
                     </l>
-                    <l>egge<pc force="strong">/</pc>
-                        <lb/>dum illen
-						
+                    <l><w>egge<pc force="strong">/</pc>
+                        <lb/>dum</w> <w>illen</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>maraggun uro<lb/>dum
+                    <l><w>maraggun</w> <w>uro<lb/>dum</w>
 						<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kyth wylag
+                    <l><w>kyth</w> <w>wylag</w>
 						<choice>
-							<sic>felleyn</sic>
-                            <corr>fellyen</corr>
+							<sic><w>felleyn</w></sic>
+                            <corr><w>fellyen</w></corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: felleyn</note>
+                        <note>Tollhiba. A forrásban: <w>felleyn</w></note>
                         <pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="9">
-                    <l>O ygoʒ ſymeonnok<pc force="weak" type="met" unit="l">/</pc>
+                    <l><w>O</w> <w>ygoʒ</w> <w>ſymeonnok</w><pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>beʒʒeg
-						<lb/>ſcouuo ere
+                    <l><w>beʒʒeg</w>
+						<lb/><w>ſcouuo</w> <w>ere</w>
 					</l>
-                    <l>en erʒem eʒ bu<pc force="strong">/</pc>
-                        <lb/>thuruth
+                    <l><w>en</w> <w>erʒem</w> <w>eʒ</w> <w>bu<pc force="strong">/</pc>
+                        <lb/>thuruth</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kyt niha egyre
+                    <l><w>kyt</w> <w>niha</w> <w>egyre</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="10">
-                    <l>Tuled
+                    <l><w>Tuled</w>
 						<choice>
-							<sic>ualmun
+							<sic><w>ualmun</w>
 							</sic>
-                            <corr>ualnom
+                            <corr><w>ualnom</w>
 							</corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: ualmun</note>
+                        <note>Tollhiba. A forrásban: <w>ualmun</w></note>
                         <pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>de num
-						<lb/>ualallal
+                    <l><w>de</w> <w>num</w>
+						<lb/><w>ualallal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>hul yg kynʒaſſal<pc force="weak" type="met" unit="l">/</pc>
+                    <l><w>hul</w> <w>yg</w> <w>kynʒaſſal</w><pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fyom halallal
+                    <l><w>fyom</w> <w>halallal</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="11">
-                    <l>Sydou
-						<lb/>myth theʒ turuentelen
+                    <l><w>Sydou</w>
+						<lb/><w>myth</w> <w>theʒ</w> <w>turuentelen</w>
 							<pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fyom merth hol byuntelen
+                    <l><w>fyom</w> <w>merth</w> <w>hol</w> <w>byuntelen</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fugwa
+                    <l><w>fugwa</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>huʒtuʒwa wklel<pc force="strong" part="I">/</pc>
+                    <l><w>huʒtuʒwa</w> <w>wklel<pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>ue
+                        <pc part="F" force="strong">/</pc>ue</w>
 													<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kethwe
+                    <l><w>kethwe</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>ulud
+                    <l><w>ulud</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="12">
-                    <l>Kegug<lb/>
-                        <pc force="strong">/</pc>gethuk fyomnok
+                    <l><w>Kegug<lb/>
+                        <pc force="strong">/</pc>gethuk</w> <w>fyomnok</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>ne leg
-						<lb/>kegulm mogomnok
+                    <l><w>ne</w> <w>leg</w>
+						<lb/><w>kegulm</w> <w>mogomnok</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>owog
-						<lb/>halal kynaal
+                    <l><w>owog</w>
+						<lb/><w>halal</w> <w>kynaal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>anyath eʒes
-						<lb/>fyaal
+                    <l><w>anyath</w> <w>eʒes</w>
+						<lb/><w>fyaal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>egembelu ullyetuk
+                    <l><w>egembelu</w> <w>ullyetuk</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
@@ -380,229 +380,229 @@
                 </head>
                 <lg n="1">
                     <l>
-						Volek syrolm thudothlon 
+						<w>Volek</w> <w>syrolm</w> <w>thudothlon</w>
 					</l>
-                    <l>sy<lb/>rolmol sepedyk
+                    <l><w>sy<lb/>rolmol</w> <w>sepedyk</w>
 						<pc force="weak" type="met" unit="l">·</pc>
                     </l>
-                    <l>buol ozuk<lb/>epedek
+                    <l><w>buol</w> <w>ozuk</w><lb/><w>epedek</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="2">
-                    <l>Walasth vylagum<lb/>tul
+                    <l><w>Walasth</w> <w>vylagum<lb/>tul</w>
 					</l>
                     <l>
-						sydou fyodumtul
+						<w>sydou</w> <w>fyodumtul</w>
 					</l>
-                    <l>ezes
-						<lb/>urume<ex>m</ex>tuul
+                    <l><w>ezes</w>
+						<lb/><w>urume<ex>m</ex>tuul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="3">
-                    <l>O en eses urodu<ex>m</ex>
+                    <l><w>O</w> <w>en</w> <w>eses</w> <w>urodu<ex>m</ex></w>
                         <lb/>
                     </l>
-                    <l>eggen yg fyodum
+                    <l><w>eggen</w> <w>yg</w> <w>fyodum</w>
 											<pc force="weak" type="met" unit="l">x</pc>
                     </l>
                     <l>
-					syrou a<pc part="I" force="strong">x</pc>
+					<w>syrou</w> <w>a<pc part="I" force="strong">x</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>niath thekunched
+                        <pc part="F" force="strong">/</pc>niath</w> <w>thekunched</w>
 					</l>
-                    <l>buabeleul
-						<lb/>kyniuhhad
+                    <l><w>buabeleul</w>
+						<lb/><w>kyniuhhad</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="4">
-                    <l>Scemem kunuel
-						<lb/>arad
+                    <l><w>Scemem</w> <w>kunuel</w>
+						<lb/><w>arad</w>
 					</l>
-                    <l>en iunhum buol farad
-						
+                    <l><w>en</w> <w>iunhum</w> <w>buol</w> <w>farad</w>
+
 								<pc force="weak" type="met" unit="l">x</pc>
                         <lb/>
                     </l>
-                    <l>the werud hullothya
+                    <l><w>the</w> <w>werud</w> <w>hullothya</w>
 					</l>
-                    <l>en iu<ex>n</ex>
+                    <l><w>en</w> <w>iu<ex>n</ex>
                         <pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>hum olelothya
+                        <pc part="F" force="strong">/</pc>hum</w> <w>olelothya</w>
 					</l>
                 </lg>
                 <lg n="5">
-                    <l>Vylag uila<lb/>ga
+                    <l><w>Vylag</w> <w>uila<lb/>ga</w>
 					</l>
-                    <l>viragnak uiraga
+                    <l><w>viragnak</w> <w>uiraga</w>
 						<pc force="weak" type="met" unit="l">·</pc>
                     </l>
-                    <l>keseru
+                    <l><w>keseru
 						<pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>en kynzathul
-						
+                        <pc part="F" force="strong">/</pc>en</w> <w>kynzathul</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>uos scegegkel <lb/>werethul
+                    <l><w>uos</w> <w>scegegkel</w> <lb/><w>werethul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="6">
-                    <l>Vh nequem en
+                    <l><w>Vh</w> <w>nequem</w> <w>en</w>
 						<lb/>
                         <choice>
-                            <sic>fyon</sic>
-                            <corr>fyom</corr>
+                            <sic><w>fyon</w></sic>
+                            <corr><w>fyom</w></corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: fyon</note>
+                        <note>Tollhiba. A forrásban: <w>fyon</w></note>
                     </l>
-                    <l>ezes mezuul
+                    <l><w>ezes</w> <w>mezuul</w>
 														<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>Scege<lb/>
-                        <pc force="strong">/</pc>nul
-						scepsegud
+                    <l><w>Scege<lb/>
+                        <pc force="strong">/</pc>nul</w>
+						<w>scepsegud</w>
 					</l>
-                    <l>wirud hioll
-						<lb/>wyzeul
+                    <l><w>wirud</w> <w>hioll</w>
+						<lb/><w>wyzeul</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="7">
-                    <l>Syrolmom fuha<lb/>
-                        <seg>/</seg>zatum
+                    <l><w>Syrolmom</w> <w>fuha<lb/>
+                        <seg>/</seg>zatum</w>
 					</l>
-                    <l>therthetyk kyul
+                    <l><w>therthetyk</w> <w>kyul</w>
 					</l>
-                    <l>en
+                    <l><w>en</w>
 						<lb/>
                         <choice>
-                            <sic>iumhumnok
+                            <sic><w>iumhumnok</w>
 							</sic>
-                            <corr>iunhumnok
+                            <corr><w>iunhumnok</w>
 							</corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: iumhumnok</note>bel bua
+                        <note>Tollhiba. A forrásban: <w>iumhumnok</w></note><w>bel</w> <w>bua</w>
 					</l>
-                    <l>qui
-						<note cert="low">quí [Írástechnikai változat]</note>
+                    <l><w>qui</w>
+						<note cert="low"><w>quí</w> [Írástechnikai változat]</note>
                         <lb/>
-						sumha nym
-						<del>kyul</del>
-                        <add>hyul</add>
+						<w>sumha</w> <w>nym</w>
+						<del><w>kyul</w></del>
+                        <add><w>hyul</w></add>
                         <note>Azonnali törlés.</note>
                         <pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="8">
-                    <l>Wegh halal engumet
-						
+                    <l><w>Wegh</w> <w>halal</w> <w>engumet</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
 
                     </l>
-                    <l>egge<pc force="strong">/</pc>
-                        <lb/>dum illen
-						
+                    <l><w>egge<pc force="strong">/</pc>
+                        <lb/>dum</w> <w>illen</w>
+
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>maraggun uro<lb/>dum
+                    <l><w>maraggun</w> <w>uro<lb/>dum</w>
 						<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kyth wylag
+                    <l><w>kyth</w> <w>wylag</w>
 						<choice>
-							<sic>felleyn</sic>
-                            <corr>fellyen</corr>
+							<sic><w>felleyn</w></sic>
+                            <corr><w>fellyen</w></corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: felleyn</note>
+                        <note>Tollhiba. A forrásban: <w>felleyn<w></note>
                         <pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="9">
-                    <l>O ygoz symeonnok<pc force="weak" type="met" unit="l">/</pc>
+                    <l><w>O</w> <w>ygoz</w> <w>symeonnok</w><pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>bezzeg
-						<lb/>scouuo ere
+                    <l><w>bezzeg</w>
+						<lb/><w>scouuo</w> <w>ere</w>
 					</l>
-                    <l>en erzem ez bu<pc force="strong">/</pc>
-                        <lb/>thuruth
+                    <l><w>en</w> <w>erzem</w> <w>ez</w> <w>bu<pc force="strong">/</pc>
+                        <lb/>thuruth</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kyt niha egyre
+                    <l><w>kyt</w> <w>niha</w> <w>egyre</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                         <lb/>
                     </l>
                 </lg>
                 <lg n="10">
-                    <l>Tuled
+                    <l><w>Tuled</w>
 						<choice>
-							<sic>ualmun
+							<sic><w>ualmun</w>
 							</sic>
-                            <corr>ualnom
+                            <corr><w>ualnom</w>
 							</corr>
                         </choice>
-                        <note>Tollhiba. A forrásban: ualmun</note>
+                        <note>Tollhiba. A forrásban: <w>ualmun</w></note>
                         <pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>de num
-						<lb/>ualallal
+                    <l><w>de</w> <w>num</w>
+						<lb/><w>ualallal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>hul yg kynzassal<pc force="weak" type="met" unit="l">/</pc>
+                    <l><w>hul</w> <w>yg</w> <w>kynzassal</w><pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fyom halallal
+                    <l><w>fyom</w> <w>halallal</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="11">
-                    <l>Sydou
-						<lb/>myth thez turuentelen
+                    <l><w>Sydou</w>
+						<lb/><w>myth</w> <w>thez</w> <w>turuentelen</w>
 							<pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fyom merth hol byuntelen
+                    <l><w>fyom</w> <w>merth</w> <w>hol</w> <w>byuntelen</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                         <lb/>
                     </l>
-                    <l>fugwa
+                    <l><w>fugwa</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>huztuzwa wklel<pc force="strong" part="I">/</pc>
+                    <l><w>huztuzwa</w> <w>wklel<pc force="strong" part="I">/</pc>
                         <lb/>
-                        <pc part="F" force="strong">/</pc>ue
+                        <pc part="F" force="strong">/</pc>ue</w>
 													<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>kethwe
+                    <l><w>kethwe</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>ulud
+                    <l><w>ulud</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
                 <lg n="12">
-                    <l>Kegug<lb/>
-                        <pc force="strong">/</pc>gethuk fyomnok
+                    <l><w>Kegug<lb/>
+                        <pc force="strong">/</pc>gethuk</w> <w>fyomnok</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>ne leg
-						<lb/>kegulm mogomnok
+                    <l><w>ne</w> <w>leg</w>
+						<lb/><w>kegulm</w> <w>mogomnok</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>owog
-						<lb/>halal kynaal
+                    <l><w>owog</w>
+						<lb/><w>halal</w> <w>kynaal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>anyath ezes
-						<lb/>fyaal
+                    <l><w>anyath</w> <w>ezes</w>
+						<lb/><w>fyaal</w>
 								<pc force="weak" type="met" unit="l">/</pc>
                     </l>
-                    <l>egembelu ullyetuk
+                    <l><w>egembelu</w> <w>ullyetuk</w>
 						<pc force="weak" type="met" unit="lg">·</pc>
                     </l>
                 </lg>
@@ -617,129 +617,129 @@
                     </title>
                 </head>
                 <lg n="1">
-                    <l>Valék siralmtudatlan,</l>
-                    <l>siralmal sepedik,</l>
-                    <l>búal aszok, epedek.</l>
+                    <l><w>Valék</w> <w>siralmtudatlan</w><pc>,</pc></l>
+                    <l><w>siralmal</w> <w>sepedik</w><pc>,</pc></l>
+                    <l><w>búal</w> <w>aszok</w><pc>,</pc> <w>epedek</w><pc>.</pc></l>
                 </lg>
                 <lg n="2">
-                    <l>Választ világomtúl,</l>
-                    <l>zsidó fiadomtúl,</l>
-                    <l>ézes ürümemtűl.</l>
+                    <l><w>Választ</w> <w>világomtúl</w><pc>,</pc></l>
+                    <l><w>zsidó</w> <w>fiadomtúl</w><pc>,</pc></l>
+                    <l><w>ézes</w> <w>ürümemtűl</w><pc>.</pc></l>
                 </lg>
                 <lg n="3">
-                    <l>Ó, én ézes uradom,</l>
-                    <l>egyen igy fiadom,</l>
-                    <l>síró anyát teküntsed,</l>
-                    <l>búabelől kinyuhhad.<note>Kinyújtsad, 'kihúzzad' jelentésben.</note>
+                    <l><w>Ó</w><pc>,</pc> <w>én</w> <w>ézes</w> <w>uradom</w><pc>,</pc></l>
+                    <l><w>egyen</w> <w>igy</w> <w>fiadom</w><pc>,</pc></l>
+                    <l><w>síró</w> <w>anyát</w> <w>teküntsed</w>,</l>
+                    <l><w>búabelől</w> <w>kinyuhhad</w><pc>.</pc><note><w>Kinyújtsad</w>, '<w>kihúzzad</w>' jelentésben.</note>
                     </l>
                 </lg>
                 <lg n="4">
-                    <l>Szemem künyüel<note>A
-							<hi rend="italic">könyű</hi>
+                    <l><w>Szemem</w> <w>künyüel</w><note>A
+							<hi rend="italic"><w>könyű</w></hi>
 							alakot a
 							<ref target="#kB04">Czuczor-Fogarasi</ref>
 							szótár még a korabeli irodalmi nyelv részének tartja.</note>
-						árad,</l>
-                    <l>én jonhom búal fárad,</l>
-                    <l>te vérüd hullatja</l>
-                    <l>én jonhom alélatja.</l>
+						<w>árad</w><pc>,</pc></l>
+                    <l><w>én</w> <w>jonhom</w> <w>búal</w> <w>fárad</w><pc>,</pc></l>
+                    <l><w>te</w> <w>vérüd</w> <w>hullatja</w></l>
+                    <l><w>én</w> <w>jonhom</w> <w>alélatja</w><pc>.</pc></l>
                 </lg>
                 <lg n="5">
-                    <l>Világ világa,</l>
-                    <l>virágnak virága,</l>
-                    <l>keserűen kínzatul,</l>
-                    <l>vasszegekkel veretül.</l>
+                    <l><w>Világ</w> <w>világa</w><pc>,</pc></l>
+                    <l><w>virágnak</w> <w>virága</w><pc>,</pc></l>
+                    <l><w>keserűen</w> <w>kínzatul</w><pc>,</pc></l>
+                    <l><w>vasszegekkel</w> <w>veretül</w><pc>.</pc></l>
                 </lg>
                 <lg n="6">
-                    <l>Uh nekem, én fiam,</l>
-                    <l>ézes mézül,</l>
+                    <l><w>Uh</w> <w>nekem</w><pc>,</pc> <w>én</w> <w>fiam</w><pc>,</pc></l>
+                    <l><w>ézes</w> <w>mézül</w><pc>,</pc></l>
                     <l>
                         <w xml:id="szegeny">szegényül</w>
                         <w xml:id="szegyen">szégyenül</w>
                         <certainty locus="value" target="#szegeny" degree="0.5">
                             <desc>A
-								<hi rend="italic">scegenul</hi>
+								<hi rend="italic"><w>scegenul</w></hi>
 								egyaránt feloldható
-								<hi rend="italic">szegényül</hi>
+								<hi rend="italic"><w>szegényül</w></hi>
 								és
-								<hi rend="italic">szégyenül</hi>
+								<hi rend="italic"><w>szégyenül</w></hi>
 								alakkal.
 							</desc>
                         </certainty>
                         <certainty locus="value" target="#szegyen" degree="0.5">
                             <desc>A
-								<hi rend="italic">scegenul</hi>
+								<hi rend="italic"><w>scegenul</w></hi>
 								egyaránt feloldható
-								<hi rend="italic">szégyenül</hi>
+								<hi rend="italic"><w>szégyenül</w></hi>
 								és
-								<hi rend="italic">szegényül</hi>
+								<hi rend="italic"><w>szegényül</w></hi>
 								alakkal.
 															</desc>
                         </certainty>
-						szépségüd,</l>
-                    <l>vírüd hull vízül.</l>
+						<w>szépségüd</w><pc>,</pc></l>
+                    <l><w>vírüd</w> <w>hull</w> <w>vízül</w><pc>.</pc></l>
                 </lg>
                 <lg n="7">
-                    <l>Siralmam, fohászatom</l>
-                    <l>terjtetik<note>
+                    <l><w>Siralmam</w><pc>,</pc> <w>fohászatom</w></l>
+                    <l><w>terjtetik</w><note>
 							<ref target="#kB02">Pais Dezső (1942</ref>: 33) a
-							<hi rend="italic">therthetyk</hi>
-							'terjed, mutatkozik' értelmezése nyomán.
+							<hi rend="italic"><w>therthetyk</w></hi>
+							'<w>terjed</w>, <w>mutatkozik</w>' értelmezése nyomán.
 						</note>
-						kíül,</l>
-                    <l>én jonhomnak bel búa,</l>
-                    <l>ki somha<note>Alternatív alaki olvasatai:
-							<hi rend="italic">sümhá</hi>, vö.
+						<w>kíül</w><pc>,</pc></l>
+                    <l><w>én</w> <w>jonhomnak</w> <w>bel</w> <w>búa</w><pc>,</pc></l>
+                    <l><w>ki</w> <w>somha</w><note>Alternatív alaki olvasatai:
+							<hi rend="italic"><w>sümhá</w></hi>, vö.
 							<ref target="kB05">A. Molnár 2003</ref>, 59,
 							<ref target="kB06">Benkő 1980</ref>, 52.</note>
                         <ref target="kB07">TESz</ref>
 						szerint
-						<hi rend="italic">*sëmha</hi>, vö. "Hangrendi hasonulással, továbbá denazalizálódással fejlődött." nüm hűl.</l>
+						<hi rend="italic">*<w>sëmha</w></hi>, vö. "Hangrendi hasonulással, továbbá denazalizálódással fejlődött." <w>nüm</w> <w>hűl</w><pc>.</pc></l>
                 </lg>
                 <lg n="8">
-                    <l>Végy halál engümet,</l>
-                    <l>egyedüm íljen,</l>
-                    <l>maradjon uradom,</l>
-                    <l>kit világ féljen.</l>
+                    <l><w>Végy</w> <w>halál</w> <w>engümet</w><pc>,</pc></l>
+                    <l><w>egyedüm</w> <w>íljen</w><pc>,</pc></l>
+                    <l><w>maradjon</w> <w>uradom</w><pc>,</pc></l>
+                    <l><w>kit</w> <w>világ</w> <w>féljen</w><pc>.</pc></l>
                 </lg>
                 <lg n="9">
-                    <l>Ó, igaz Simeonnak</l>
-                    <l>bezzeg szava ére:</l>
-                    <l>én érzem ez bútűrüt,</l>
-                    <l>kit níha egíre.</l>
+                    <l><w>Ó</w><pc>,</pc> <w>igaz</w> <w>Simeonnak</w></l>
+                    <l><w>bezzeg</w> <w>szava</w> <w>ére</w><pc>:</pc></l>
+                    <l><w>én</w> <w>érzem</w> <w>ez</w> <w>bútűrüt</w><pc>,</pc></l>
+                    <l><w>kit</w> <w>níha</w> <w>egíre</w><pc>.</pc></l>
                 </lg>
                 <lg n="10">
-                    <l>Tűled válnom,</l>
-                    <l>de nüm válállal,
+                    <l><w>Tűled</w> <w>válnom</w><pc>,</pc></l>
+                    <l><w>de</w> <w>nüm</w> <w>válállal</w><pc>,</pc>
 						<note>
 							<ref target="#kB03">Négyesy László (1927</ref>: 376) nyomán a
-							<hi rend="italic">ualallal</hi>
+							<hi rend="italic"><w>ualallal</w></hi>
 							értelmezése: a
-							<hi rend="italic">válik</hi>
+							<hi rend="italic"><w>válik</w></hi>
 							ige névszói alakjaként
-							<hi rend="italic">válállal</hi>. Jelentése 'válás, elválás', esetleg 'elbúcsúzás'.
+							<hi rend="italic"><w>válállal</w></hi>. Jelentése '<w>válás</w>, <w>elválás</w>', esetleg '<w>elbúcsúzás</w>'.
 						</note>
                     </l>
-                    <l>hol így kínzassál,</l>
-                    <l>fiam, halállal.</l>
+                    <l><w>hol</w> <w>így</w> <w>kínzassál</w><pc>,</pc></l>
+                    <l><w>fiam</w><pc>,</pc> <w>halállal</w><pc>.</pc></l>
                 </lg>
                 <lg n="11">
-                    <l>Zsidó, mit téssz, türvénytelen,</l>
-                    <l>fiam mert hal bűntelen:<note>Korompay Klára felvetését követve a
-							<hi rend="italic">byuntelen</hi>
+                    <l><w>Zsidó</w><pc>,</pc> <w>mit</w> <w>téssz</w><pc>,</pc> <w>türvénytelen</w><pc>,</pc></l>
+                    <l><w>fiam</w> <w>mert</w> <w>hal</w> <w>bűntelen</w><pc>:</pc><note>Korompay Klára felvetését követve a
+							<hi rend="italic"><w>byuntelen</w></hi>
 							[iü] diftongusát hosszú magánhangzóként írtuk át.</note>
                     </l>
-                    <l>fogva,</l>
-                    <l>húztozva, üklelve,</l>
-                    <l>ketve</l>
-                    <l>ülüd.</l>
+                    <l><w>fogva</w><pc>,</pc></l>
+                    <l><w>húztozva</w><pc>,</pc> <w>üklelve</w><pc>,</pc></l>
+                    <l><w>ketve</w></l>
+                    <l><w>ülüd</w><pc>.</pc></l>
                 </lg>
                 <lg n="12">
-                    <l>Kegyüggyetük fiamnak,</l>
-                    <l>ne légy kegyülm magamnak,</l>
-                    <l>avagy halál kínáal,</l>
-                    <l>anyát ézes fiáal</l>
-                    <l>egyembelű üljétük!</l>
+                    <l><w>Kegyüggyetük</w> <w>fiamnak</w><pc>,</pc></l>
+                    <l><w>ne</w> <w>légy</w> <w>kegyülm</w> <w>magamnak</w><pc>,</pc></l>
+                    <l><w>avagy</w> <w>halál</w> <w>kínáal</w><pc>,</pc></l>
+                    <l><w>anyát</w> <w>ézes</w> <w>fiáal</w></l>
+                    <l><w>egyembelű</w> <w>üljétük</w><pc>!</pc></l>
                 </lg>
             </div>
         </body>
