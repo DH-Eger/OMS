@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI SYSTEM "./tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ómagyar Mária-siralom</title>
+				<title type="sub">Értelmező átirat</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>Kritikai kiadás</edition>
+				<respStmt>
+					<resp xml:lang="hu">szerkesztette:
+					</resp>
+					<resp xml:lang="en">editor:
+					</resp>
+					<persName>
+						<surname>Kalcsó</surname>
+						<forename>Gyula</forename>
+					</persName>
+					<persName>
+						<surname>Maróthy</surname>
+						<forename>Szilvia</forename>
+					</persName>
+				</respStmt>
+
+			</editionStmt>
+			<publicationStmt>
+				<p>Jelen kiadás a <bibl><title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+							<forename>Iván</forename>
+						</editor>
+						<editor>
+							<surname>Maróthy</surname>
+							<forename>Szilvia</forename>
+						</editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+					</bibl> XML forrásának felhasználásával készült</p>
+				<publisher>
+					<orgName>Eszterházy Károly Egyetem</orgName>
+					<orgName>Digitális Bölcsészeti Kutatócsoport</orgName>
+				</publisher>
+				<pubPlace>Eger</pubPlace>
+				<date when-iso="2019">2019</date>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+						<p xml:lang="en">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</p>
+						<p xml:id="hun">A mű a Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi Licenc alatt van.</p>
+						<ref style="border-width:0" target="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="forrasBibl">
+					<title ref="http://nyelvemlekek.oszk.hu/adatlap-dupla/leuveni_kodex_%E2%80%93_omagyar_mariasiralom">Leuveni kódex</title>,
+					<orgName ref="//viaf.org/viaf/137912193">Országos Széchényi Könyvtár</orgName>,
+					<idno>MNy 79</idno>, 134v
+				</bibl>
+				<listBibl xml:id="kritikaiBibl">
+					<bibl xml:id="oms1">
+						<title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+							<forename>Iván</forename>
+						</editor>
+						<editor>
+							<surname>Maróthy</surname>
+							<forename>Szilvia</forename>
+						</editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+					</bibl>
+					<bibl xml:id="kB01">Vizkelety András 2004: Az európai prédikációirodalom recepciója a Leuveni kódexben – Die Rezeption der europäischen Sermonesliteratur im „Löwener Kodex”, Bp., Akadémiai Kiadó (Fragmenta et codices in bibliothecis Hungariae, IV).</bibl>
+					<bibl xml:id="kB02">Pais Dezső 1942: [Mária siralmának olvasása és értelmezése] = Horváth János (szerk.) 1942 (második kiadás): Magyar versek könyve, Bp., Magyar Szemle Társaság, 33.</bibl>
+					<bibl xml:id="kB03">Németh László 1942: Kisebbségben, I–II, Bp., Magyar Élet kiadása.</bibl>
+					<bibl xml:id="kB04">Czuczor–Fogarasi: A magyar nyelv szótára, szerk. Czuczor Gergely, Fogarasi János, Pest, Athenaeum, 1862–1874.</bibl>
+					<bibl xml:id="kB05">A. Molnár 2003: Az Ómagyar Mária-siralom olvasata és értelmezése = A. Molnár – M. Nagy 2003: 55–76.</bibl>
+					<bibl xml:id="kB06">Benkő 1980: Az Árpád-kor magyar nyelvű szövegemlékei, Bp., Akadémiai Kiadó..</bibl>
+					<bibl xml:id="kB07">TESz: A ​magyar nyelv történeti-etimológiai szótára, főszerk. Benkő Loránd, Bp., Akadémiai Kiadó, 1995.</bibl>
+					<bibl xml:id="kB08">Horváth Iván 2006: Gépeskönyv, Bp., Balassi, 2006.</bibl>
+					<bibl xml:id="kB09">Horváth Iván 2015: Ómagyar szövegemlékek mint textológiai tárgyak, Bp., OSZK (Információtörténeti műhely). Elektronikus verzió (PDF):
+						<ref target="http://mek.oszk.hu/15400/15446">http://mek.oszk.hu/15400/15446</ref>
+					</bibl>
+					<bibl xml:id="kB10">Maróthy Szilvia 2014: A Christus poetico planctus (Ómagyar Mária-siralom) verstani tagolójelei, Irodalomtörténeti Közlemények, 118(2014)/1, 71–76.</bibl>
+				</listBibl>
+			</sourceDesc>
+			<notesStmt>
+				<note>
+					<p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+				</note>
+				<note target="#oms1"><!-- Ez a korábbi kiadás jegyzete, amiből nem minden érvényes a mi kiadásunkra. De nem megbontani kéne, hanem a megjelenítésben úgy elkülöníteni, hogy világos legyen, hogy ez a másik kiadásnak a jegyzete, nem a mienké. Egyelőre most a title-be írtam ezt bele.-->
+					<title type="main">A 2018-as kiadás (szerk. Hovráth--Maróthy) jegyzete</title>
+					<title type="sub">A kiadásról</title>
+					<p>Az Ómagyar Mária-siralom feltevésünk szerint saját kezű, szerzői kézirat.<note>
+							<ref target="#kB09">Horváth 2015</ref>: 53.</note>
+					</p>
+					<p>Az
+						<hi rend="italic">Ómagyar Mária-siralom</hi>, vagy régi-új nevén
+						<hi rend="italic">Christus poetice planctus</hi>
+						<note>Cím a Leuveni kódex tartalomjegyzéke alapján.
+							<ref target="3.1.">Bővebben>></ref>
+						</note>
+						XML alapú kritikai kiadásának készítésekor a szöveget irodalmi műnek tekintettük.</p>
+					<p>Az átírás legnyersebb rétege az írásjelek sorrendjében közli a szöveget anélkül, hogy a jelkészlet elemeinek jelentését is megpróbálnók rekonstruálni. Ez a diplomatikai átírás.</p>
+					<p>A betűhű kritikai kiadás a következő réteg. Ebben már tekintetbe vettük, hogy bizonyos írásjelek között a különbség csupán írástechnikai. A virgulák – független attól, hogy egyetlen vonásból, vagy két egymást metsző vonásból állnak – hol sorvégi
+						kötőjelek, hol pedig verssor-határ jelölői. Az előbbi esetben elhagyjuk őket, s csupán végrehajtjuk a kötőjellel kifejezett utasítást a szó összevonásával. Az utóbbi esetben gondolatjellel fejezzük ki a szerző azon szándékát, hogy a metrikai határt
+						megjelölje. Ugyanerre a sorsa jut a punctum is mint a versszak-határ explicit kifejezése.<note>
+							<ref target="#kB10">Maróthy 2014.</ref>
+						</note>
+					</p>
+					<p>A mai befogadást segíti a modernizált helyesírású harmadik réteg, amely a szerző feltételezhető kiejtését igyekszik követni, kivéve azon hangokat, amelyek a mai magyar irodalmi nyelvből már kivesztek.</p>
+					<p>A
+						<hi rend="italic">Christus poetice planctus</hi>
+						elég szorosan követte irodalmi mintáját,
+						<persName ref="//viaf.org/viaf/261910300">Godefridus de Sancto Victore</persName>
+						<hi rend="italic">Planctus ante nescia</hi>
+						kezdetű költeményének rövid változatát, amelynek nagyon hibás másolata a Leuveni kódexben olvasható. A negyedik rétegben ezért a magyar költemény mellé a rövid latin változat szövegét helyeztük el, amelyet a
+						<persName ref="//viaf.org/viaf/73866279">Bernhard Bischoff</persName>
+						által gondozott kritikai kiadásból, a vers második részének elhagyásával nyertünk.</p>
+					<p>Köszönetet mondunk A. Molnár Ferencnek, Korompay Klárának, Madas Editnek, Simoncsics Péternek értő és ösztönző bírálataikért, tanácsaikért, Peti Péternek (Tripont Kft.) és Földesi Ferencnek a fényképezésért. Külön köszönet az ELTE most
+						megszüntetett Reneszánsz tanulmányok mesterképzési szak két avatott hallgatójának, Keresztény Júliának és Vrabély Márknak.</p>
+				</note>
+			</notesStmt>
+		</fileDesc>
+		<encodingDesc>
+			<p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+		</encodingDesc>
+	</teiHeader>
+	<text><div corresp="#ert" xml:lang="hu">
+		<lg n="1">
+			<l>
+				<w>Nem</w>
+				<w>ismertem</w>
+				<w>a</w>
+				<w>siralmat</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Most</w>
+				<w>siralom</w>
+				<w>sebez</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Fájdalom</w>
+				<w>gyötör</w>
+				<pc>,</pc>
+				<w>epeszt</w>
+				<pc>.</pc>
+			</l>
+		</lg>
+		<lg n="2">
+			<l>
+				<w>Zsidók</w>
+				<w>világosságomtól</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Elválasztanak</w>
+				<w>fiamtól</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Édes</w>
+				<w>örömemtől</w>
+				<pc>.</pc>
+			</l>
+		</lg>
+		<lg n="3">
+			<l>
+				<w>Ó</w>
+				<pc>,</pc>
+				<w>én</w>
+				<w>édes</w>
+				<w>Uram</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Egyetlen</w>
+				<w>egy</w>
+				<w>fiam</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Síró</w>
+				<w>anyát</w>
+				<w>tekintsed</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Fájdalmából</w>
+				<w>kivonjad</w>!</l>
+		</lg>
+		<lg n="4">
+			<l>
+				<w>Szememből</w>
+				<w>könny</w>
+				<w>árad</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Szívem</w>
+				<w>kíntól</w>
+				<w>fárad</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Te</w>
+				<w>véred</w>
+				<w>hullása</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Szívem</w>
+				<w>alélása</w>
+				<pc>.</pc>
+			</l>
+		</lg>
+		<lg n="5">
+			<l>
+				<w>Világ</w>
+				<w>világa</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Virágnak</w>
+				<w>virága</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Keservesen</w>
+				<w>kínoznak</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Vas</w>
+				<w>szegekkel</w>
+				<w>átvernek</w>
+				<pc>!</pc>
+			</l>
+		</lg>
+		<lg n="6">
+			<l>
+				<w>Jaj</w>
+				<w>nekem</w>
+				<pc>,</pc>
+				<w>én</w>
+				<w>fiam</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Édes</w>
+				<pc>,</pc>
+				<w>mint</w>
+				<w>a</w>
+				<w>méz</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Megrútul</w>
+				<w>szépséged</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Vízként</w>
+				<w>hull</w>
+				<w>véred</w>
+				<pc>!</pc>
+			</l>
+		</lg>
+		<lg n="7">
+			<l>
+				<w>Siralmam</w>
+				<pc>,</pc>
+				<w>fohászkodásom</w>
+			</l>
+			<l>
+				<w>Láttatik</w>
+				<w>kívül</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Szívem</w>
+				<w>belső</w>
+				<w>fájdalma</w>
+			</l>
+			<l>
+				<w>Soha</w>
+				<w>nem</w>
+				<w>enyhül</w>
+				<pc>.</pc>
+			</l>
+		</lg>
+		<lg n="8">
+			<l>
+				<w>Végy</w>
+				<w>halál</w>
+				<w>engemet</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Egyetlenem</w>
+				<w>éljen</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Maradjon</w>
+				<w>meg</w>
+				<w>Uram</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Kit</w>
+				<w>a</w>
+				<w>világ</w>
+				<w>féljen</w>!</l>
+		</lg>
+		<lg n="9">
+			<l>
+				<w>Ó</w>
+				<pc>,</pc>
+				<w>az</w>
+				<w>igaz</w>
+				<w>Simeonnak</w>
+			</l>
+			<l>
+				<w>Biztos</w>
+				<w>szava</w>
+				<w>elért</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Érzem</w>
+				<w>e</w>
+				<w>fájdalom-tőrt</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Amit</w>
+				<w>egykor</w>
+				<w>jövendölt</w>
+				<pc>.</pc>
+			</l>
+		</lg>
+		<lg n="10">
+			<l>
+				<w>Ne</w>
+				<w>váljak</w>
+				<w>el</w>
+				<w>tőled</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Életben</w>
+				<w>maradva</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Mikor</w>
+				<w>így</w>
+				<w>kínoznak</w>
+			</l>
+			<l>
+				<w>Fiam</w>
+				<pc>,</pc>
+				<w>halálra</w>
+				<pc>!</pc>
+			</l>
+		</lg>
+		<lg n="11">
+			<l>
+				<w>Zsidó</w>
+				<pc>,</pc>
+				<w>mit</w>
+				<w>tész</w>
+				<w>törvénytelen</w>
+				<pc>!</pc>
+			</l>
+			<l>
+				<w>Fiam</w>
+				<w>meghal</w>
+				<pc>,</pc>
+				<w>de</w>
+				<w>bűntelen</w>
+				<pc>!</pc>
+			</l>
+			<l>
+				<w>Megfogva</w>
+				<pc>,</pc>
+				<w>rángatva</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Öklözve</w>
+				<pc>,</pc>
+				<w>megkötve</w>
+			</l>
+			<l>
+				<w>Ölöd</w>
+				<w>meg</w>!</l>
+		</lg>
+		<lg n="12">
+			<l>
+				<w>Kegyelmezzetek</w>
+				<w>meg</w>
+				<w>fiamnak</w>
+				<pc>,</pc>
+			</l>
+			<l>
+				<w>Ne</w>
+				<w>legyen</w>
+				<w>kegyelem</w>
+				<w>magamnak</w>
+				<pc>,</pc>
+				<l>
+					<w>Avagy</w>
+					<w>halál</w>
+					<w>kínjával</w>
+					<pc>,</pc>
+				</l>
+				<l>
+					<w>Anyát</w>
+					<w>édes</w>
+					<w>fiával</w>
+				</l>
+				<l>
+					<w>Együtt</w>
+					<w>öljétek</w>
+					<w>meg</w>
+					<pc>!</pc>
+				</l>
+			</lg>
+		</div>
+  </text>
+  </TEI>

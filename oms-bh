@@ -1,0 +1,505 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI SYSTEM "./tei_all.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Ómagyar Mária-siralom</title>
+				<title type="sub">Betűhű átirat</title>
+			</titleStmt>
+			<editionStmt>
+				<edition>Kritikai kiadás</edition>
+				<respStmt>
+					<resp xml:lang="hu">szerkesztette:
+					</resp>
+					<resp xml:lang="en">editor:
+					</resp>
+					<persName>
+						<surname>Kalcsó</surname>
+						<forename>Gyula</forename>
+					</persName>
+					<persName>
+						<surname>Maróthy</surname>
+						<forename>Szilvia</forename>
+					</persName>
+				</respStmt>
+
+			</editionStmt>
+			<publicationStmt>
+				<p>Jelen kiadás a <bibl><title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+							<forename>Iván</forename>
+						</editor>
+						<editor>
+							<surname>Maróthy</surname>
+							<forename>Szilvia</forename>
+						</editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+					</bibl> XML forrásának felhasználásával készült</p>
+				<publisher>
+					<orgName>Eszterházy Károly Egyetem</orgName>
+					<orgName>Digitális Bölcsészeti Kutatócsoport</orgName>
+				</publisher>
+				<pubPlace>Eger</pubPlace>
+				<date when-iso="2019">2019</date>
+				<availability>
+					<licence target="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+						<p xml:lang="en">This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</p>
+						<p xml:id="hun">A mű a Creative Commons Nevezd meg! - Ne add el! - Így add tovább! 4.0 Nemzetközi Licenc alatt van.</p>
+						<ref style="border-width:0" target="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl xml:id="forrasBibl">
+					<title ref="http://nyelvemlekek.oszk.hu/adatlap-dupla/leuveni_kodex_%E2%80%93_omagyar_mariasiralom">Leuveni kódex</title>,
+					<orgName ref="//viaf.org/viaf/137912193">Országos Széchényi Könyvtár</orgName>,
+					<idno>MNy 79</idno>, 134v
+				</bibl>
+				<listBibl xml:id="kritikaiBibl">
+					<bibl xml:id="oms1">
+						<title>Cristus Poetice Planctus (Ómagyar Mária Siralom): Kritikai kiadás v 1.0</title>, szerk. <editor><surname>Horváth</surname>
+							<forename>Iván</forename>
+						</editor>
+						<editor>
+							<surname>Maróthy</surname>
+							<forename>Szilvia</forename>
+						</editor>, <date when-iso="2018">2018</date>, DOI: <idno type="DOI">10.5281/zenodo.1287583</idno>
+					</bibl>
+					<bibl xml:id="kB01">Vizkelety András 2004: Az európai prédikációirodalom recepciója a Leuveni kódexben – Die Rezeption der europäischen Sermonesliteratur im „Löwener Kodex”, Bp., Akadémiai Kiadó (Fragmenta et codices in bibliothecis Hungariae, IV).</bibl>
+					<bibl xml:id="kB02">Pais Dezső 1942: [Mária siralmának olvasása és értelmezése] = Horváth János (szerk.) 1942 (második kiadás): Magyar versek könyve, Bp., Magyar Szemle Társaság, 33.</bibl>
+					<bibl xml:id="kB03">Németh László 1942: Kisebbségben, I–II, Bp., Magyar Élet kiadása.</bibl>
+					<bibl xml:id="kB04">Czuczor–Fogarasi: A magyar nyelv szótára, szerk. Czuczor Gergely, Fogarasi János, Pest, Athenaeum, 1862–1874.</bibl>
+					<bibl xml:id="kB05">A. Molnár 2003: Az Ómagyar Mária-siralom olvasata és értelmezése = A. Molnár – M. Nagy 2003: 55–76.</bibl>
+					<bibl xml:id="kB06">Benkő 1980: Az Árpád-kor magyar nyelvű szövegemlékei, Bp., Akadémiai Kiadó..</bibl>
+					<bibl xml:id="kB07">TESz: A ​magyar nyelv történeti-etimológiai szótára, főszerk. Benkő Loránd, Bp., Akadémiai Kiadó, 1995.</bibl>
+					<bibl xml:id="kB08">Horváth Iván 2006: Gépeskönyv, Bp., Balassi, 2006.</bibl>
+					<bibl xml:id="kB09">Horváth Iván 2015: Ómagyar szövegemlékek mint textológiai tárgyak, Bp., OSZK (Információtörténeti műhely). Elektronikus verzió (PDF):
+						<ref target="http://mek.oszk.hu/15400/15446">http://mek.oszk.hu/15400/15446</ref>
+					</bibl>
+					<bibl xml:id="kB10">Maróthy Szilvia 2014: A Christus poetico planctus (Ómagyar Mária-siralom) verstani tagolójelei, Irodalomtörténeti Közlemények, 118(2014)/1, 71–76.</bibl>
+				</listBibl>
+			</sourceDesc>
+			<notesStmt>
+				<note>
+					<p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+				</note>
+				<note target="#oms1"><!-- Ez a korábbi kiadás jegyzete, amiből nem minden érvényes a mi kiadásunkra. De nem megbontani kéne, hanem a megjelenítésben úgy elkülöníteni, hogy világos legyen, hogy ez a másik kiadásnak a jegyzete, nem a mienké. Egyelőre most a title-be írtam ezt bele.-->
+					<title type="main">A 2018-as kiadás (szerk. Hovráth--Maróthy) jegyzete</title>
+					<title type="sub">A kiadásról</title>
+					<p>Az Ómagyar Mária-siralom feltevésünk szerint saját kezű, szerzői kézirat.<note>
+							<ref target="#kB09">Horváth 2015</ref>: 53.</note>
+					</p>
+					<p>Az
+						<hi rend="italic">Ómagyar Mária-siralom</hi>, vagy régi-új nevén
+						<hi rend="italic">Christus poetice planctus</hi>
+						<note>Cím a Leuveni kódex tartalomjegyzéke alapján.
+							<ref target="3.1.">Bővebben>></ref>
+						</note>
+						XML alapú kritikai kiadásának készítésekor a szöveget irodalmi műnek tekintettük.</p>
+					<p>Az átírás legnyersebb rétege az írásjelek sorrendjében közli a szöveget anélkül, hogy a jelkészlet elemeinek jelentését is megpróbálnók rekonstruálni. Ez a diplomatikai átírás.</p>
+					<p>A betűhű kritikai kiadás a következő réteg. Ebben már tekintetbe vettük, hogy bizonyos írásjelek között a különbség csupán írástechnikai. A virgulák – független attól, hogy egyetlen vonásból, vagy két egymást metsző vonásból állnak – hol sorvégi
+						kötőjelek, hol pedig verssor-határ jelölői. Az előbbi esetben elhagyjuk őket, s csupán végrehajtjuk a kötőjellel kifejezett utasítást a szó összevonásával. Az utóbbi esetben gondolatjellel fejezzük ki a szerző azon szándékát, hogy a metrikai határt
+						megjelölje. Ugyanerre a sorsa jut a punctum is mint a versszak-határ explicit kifejezése.<note>
+							<ref target="#kB10">Maróthy 2014.</ref>
+						</note>
+					</p>
+					<p>A mai befogadást segíti a modernizált helyesírású harmadik réteg, amely a szerző feltételezhető kiejtését igyekszik követni, kivéve azon hangokat, amelyek a mai magyar irodalmi nyelvből már kivesztek.</p>
+					<p>A
+						<hi rend="italic">Christus poetice planctus</hi>
+						elég szorosan követte irodalmi mintáját,
+						<persName ref="//viaf.org/viaf/261910300">Godefridus de Sancto Victore</persName>
+						<hi rend="italic">Planctus ante nescia</hi>
+						kezdetű költeményének rövid változatát, amelynek nagyon hibás másolata a Leuveni kódexben olvasható. A negyedik rétegben ezért a magyar költemény mellé a rövid latin változat szövegét helyeztük el, amelyet a
+						<persName ref="//viaf.org/viaf/73866279">Bernhard Bischoff</persName>
+						által gondozott kritikai kiadásból, a vers második részének elhagyásával nyertünk.</p>
+					<p>Köszönetet mondunk A. Molnár Ferencnek, Korompay Klárának, Madas Editnek, Simoncsics Péternek értő és ösztönző bírálataikért, tanácsaikért, Peti Péternek (Tripont Kft.) és Földesi Ferencnek a fényképezésért. Külön köszönet az ELTE most
+						megszüntetett Reneszánsz tanulmányok mesterképzési szak két avatott hallgatójának, Keresztény Júliának és Vrabély Márknak.</p>
+				</note>
+			</notesStmt>
+		</fileDesc>
+		<encodingDesc>
+			<p><!-- Kiegészítendő. Alább másik note.ban a korábbi kiadás bevezetését közöljük, hivatkozva arra (lásd biblióban). -->Az oms-ekedbk kiadás az Ómagyar Mária-siralom betűhű, betű szerinti, fonetikus és értelmező átírását közli, valamint az eredeti forrás fényképhasonmását.</p>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+	<div corresp="#bh" xml:lang="hu">
+		<head>
+			<title ref="../vm-images/christusTitle.png">Christus poetice planctus<note>[Tollhiba? A forrásban a rövidítések feloldásával:] Christus poetico planctus [A költemény szerzői megnevezése – tehát címe – a Leuveni kódex 254r alapján.
+					<ref target="#kB01">Vizkelety András (2004</ref>: 140) második szövegjavítási feltevését fogadtuk el: „A poetico jelző mellé kívánkozik egy főnév (például modo, esetleg stylo poetico), vagy a melléknévből határozószót kellett volna kreálni
+					(poetice)”. Kiss Farkas Gábor azon alapuló szövegjavítási tanácsa, hogy az -us rövidítés farkának elhagyásával o-t kapnánk: poeticus planctus. (KFG szóbeli közlése.)]</note>
+			</title>
+		</head>
+		<lg n="1">
+			<l>
+				<w>Volek</w>
+				<w>ſyrolm</w>
+				<w>thudothlon</w>
+			</l>
+			<l>
+				<w>ſy<lb/>rolmol</w>
+				<w>ſepedyk</w>
+				<pc force="weak" type="met" unit="l">·</pc>
+			</l>
+			<l>
+				<w>buol</w>
+				<w>oʒuk</w>
+				<lb/>
+				<w>epedek</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="2">
+			<l>
+				<w>Walaſth</w>
+				<w>vylagum<lb/>tul</w>
+			</l>
+			<l>
+				<w>ſydou</w>
+				<w>fyodumtul</w>
+			</l>
+			<l>
+				<w>eʒes</w>
+				<lb/>
+				<w>urum&#x0113;tuul</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="3">
+			<l>
+				<w>O</w>
+				<w>en</w>
+				<w>eſes</w>
+				<w>urod&#x016B;</w>
+				<lb/>
+			</l>
+			<l>
+				<w>eggen</w>
+				<w>yg</w>
+				<w>fyodum</w>
+				<pc force="weak" type="met" unit="l">x</pc>
+			</l>
+			<l>
+				<w>ſyrou</w>
+				<w>a<pc part="I" force="strong">x</pc>
+					<lb/>
+					<pc part="F" force="strong">/</pc>niath</w>
+				<w>thekunched</w>
+			</l>
+			<l>
+				<w>buabeleul</w>
+				<lb/>
+				<w>kyniuhhad</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="4">
+			<l>
+				<w>Scemem</w>
+				<w>kunuel</w>
+				<lb/>
+				<w>arad</w>
+			</l>
+			<l>
+				<w>en</w>
+				<w>iunhum</w>
+				<w>buol</w>
+				<w>farad</w>
+
+				<pc force="weak" type="met" unit="l">x</pc>
+				<lb/>
+			</l>
+			<l>
+				<w>the</w>
+				<w>werud</w>
+				<w>hullothya</w>
+			</l>
+			<l>
+				<w>en</w>
+				<w>i&#x016B;
+										<pc force="strong" part="I">/</pc>
+					<lb/>
+					<pc part="F" force="strong">/</pc>hum</w>
+				<w>olelothya</w>
+			</l>
+		</lg>
+		<lg n="5">
+			<l>
+				<w>Vylag</w>
+				<w>uila<lb/>ga</w>
+			</l>
+			<l>
+				<w>viragnak</w>
+				<w>uiraga</w>
+				<pc force="weak" type="met" unit="l">·</pc>
+			</l>
+			<l>
+				<w>keſeru
+				<pc force="strong" part="I">/</pc>
+					<lb/>
+					<pc part="F" force="strong">/</pc>en</w>
+				<w>kynʒathul</w>
+
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>uoſ</w>
+				<w>ſcegegkel</w>
+				<lb/>
+				<w>werethul</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="6">
+			<l>
+				<w>Vh</w>
+				<w>nequem</w>
+				<w>en</w>
+				<lb/>
+				<choice>
+					<sic>
+						<w>fyon</w>
+					</sic>
+					<corr>
+						<w>fyom</w>
+					</corr>
+				</choice>
+				<note>Tollhiba. A forrásban: fyon</note>
+			</l>
+			<l>
+				<w>eʒes</w>
+				<w>meʒuul</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>Scege<lb/>
+					<pc force="strong">/</pc>nul</w>
+				<w>ſcepſegud</w>
+			</l>
+			<l>
+				<w>wirud</w>
+				<w>hioll</w>
+				<lb/>
+				<w>wyʒeul</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="7">
+			<l>
+				<w>Syrolmom</w>
+				<w>fuha<lb/>
+					<seg>/</seg>ʒatum</w>
+			</l>
+			<l>
+				<w>therthetyk</w>
+				<w>kyul</w>
+			</l>
+			<l>
+				<w>en</w>
+				<lb/>
+				<choice>
+					<sic>
+						<w>iumhumnok</w>
+					</sic>
+					<corr>
+						<w>iunhumnok</w>
+					</corr>
+				</choice>
+				<note>Tollhiba. A forrásban: iumhumnok</note>
+				<w>bel</w>
+				<w>bua</w>
+			</l>
+			<l>
+				<w>qui</w>
+				<note cert="low">
+					<w>quí</w> [Írástechnikai változat]</note>
+				<lb/>
+				<w>ſumha</w>
+				<w>nym</w>
+				<del>
+					<w>kyul</w>
+				</del>
+				<add>
+					<w>hyul</w>
+				</add>
+				<note>Azonnali törlés.</note>
+				<pc force="weak" type="met" unit="lg">·</pc>
+				<lb/>
+			</l>
+		</lg>
+		<lg n="8">
+			<l>
+				<w>Wegh</w>
+				<w>halal</w>
+				<w>engumet</w>
+
+				<pc force="weak" type="met" unit="l">/</pc>
+
+			</l>
+			<l>
+				<w>egge<pc force="strong">/</pc>
+					<lb/>dum</w>
+				<w>illen</w>
+
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>maraggun</w>
+				<w>uro<lb/>dum</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>kyth</w>
+				<w>wylag</w>
+				<choice>
+					<sic>
+						<w>felleyn</w>
+					</sic>
+					<corr>
+						<w>fellyen</w>
+					</corr>
+				</choice>
+				<note>Tollhiba. A forrásban: <w>felleyn</w>
+				</note>
+				<pc force="weak" type="met" unit="lg">·</pc>
+				<lb/>
+			</l>
+		</lg>
+		<lg n="9">
+			<l>
+				<w>O</w>
+				<w>ygoʒ</w>
+				<w>ſymeonnok</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>beʒʒeg</w>
+				<lb/>
+				<w>ſcouuo</w>
+				<w>ere</w>
+			</l>
+			<l>
+				<w>en</w>
+				<w>erʒem</w>
+				<w>eʒ</w>
+				<w>bu<pc force="strong">/</pc>
+					<lb/>thuruth</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>kyt</w>
+				<w>niha</w>
+				<w>egyre</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+				<lb/>
+			</l>
+		</lg>
+		<lg n="10">
+			<l>
+				<w>Tuled</w>
+				<choice>
+					<sic>
+						<w>ualmun</w>
+					</sic>
+					<corr>
+						<w>ualnom</w>
+					</corr>
+				</choice>
+				<note>Tollhiba. A forrásban: <w>ualmun</w>
+				</note>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>de</w>
+				<w>num</w>
+				<lb/>
+				<w>ualallal</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>hul</w>
+				<w>yg</w>
+				<w>kynʒaſſal</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+				<lb/>
+			</l>
+			<l>
+				<w>fyom</w>
+				<w>halallal</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="11">
+			<l>
+				<w>Sydou</w>
+				<lb/>
+				<w>myth</w>
+				<w>theʒ</w>
+				<w>turuentelen</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+				<lb/>
+			</l>
+			<l>
+				<w>fyom</w>
+				<w>merth</w>
+				<w>hol</w>
+				<w>byuntelen</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+				<lb/>
+			</l>
+			<l>
+				<w>fugwa</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>huʒtuʒwa</w>
+				<w>wklel<pc force="strong" part="I">/</pc>
+					<lb/>
+					<pc part="F" force="strong">/</pc>ue</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>kethwe</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>ulud</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+		<lg n="12">
+			<l>
+				<w>Kegug<lb/>
+					<pc force="strong">/</pc>gethuk</w>
+				<w>fyomnok</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>ne</w>
+				<w>leg</w>
+				<lb/>
+				<w>kegulm</w>
+				<w>mogomnok</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>owog</w>
+				<lb/>
+				<w>halal</w>
+				<w>kynaal</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>anyath</w>
+				<w>eʒes</w>
+				<lb/>
+				<w>fyaal</w>
+				<pc force="weak" type="met" unit="l">/</pc>
+			</l>
+			<l>
+				<w>egembelu</w>
+				<w>ullyetuk</w>
+				<pc force="weak" type="met" unit="lg">·</pc>
+			</l>
+		</lg>
+	</div>
+</text>
+</TEI>
