@@ -127,22 +127,22 @@
 					<ref target="#kB01">Vizkelety András (2004</ref>: 140) második szövegjavítási feltevését fogadtuk el: „A poetico jelző mellé kívánkozik egy főnév (például modo, esetleg stylo poetico), vagy a melléknévből határozószót kellett volna kreálni
 					(poetice)”. Kiss Farkas Gábor azon alapuló szövegjavítási tanácsa, hogy az -us rövidítés farkának elhagyásával o-t kapnánk: poeticus planctus. (KFG szóbeli közlése.)]</note>
 			</title>
-		</head>
-		<lg n="1">
+		</head><lb n="1"/>
+<lg n="1">
 			<l>
 				<w>Volek</w>
 				<w>ſyrolm</w>
 				<w>thudothlon</w>
 			</l>
 			<l>
-				<w>ſy<lb n="1"/>rolmol</w>
+				<w>ſy<lb n="2"/>rolmol</w>
 				<w>ſepedyk</w>
 				<pc force="weak" type="met" unit="l">·</pc>
 			</l>
 			<l>
 				<w>buol</w>
 				<w>oʒuk</w>
-				<lb n="2"/>
+				<lb n="3"/>
 				<w>epedek</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
 			</l>
@@ -150,7 +150,7 @@
 		<lg n="2">
 			<l>
 				<w>Walaſth</w>
-				<w>vylagum<lb n="3"/>tul</w>
+				<w>vylagum<lb n="4"/>tul</w>
 			</l>
 			<l>
 				<w>ſydou</w>
@@ -158,7 +158,7 @@
 			</l>
 			<l>
 				<w>eʒes</w>
-				<lb n="4"/>
+				<lb n="5"/>
 				<w>urum&#x0113;tuul</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
 			</l>
@@ -169,7 +169,7 @@
 				<w>en</w>
 				<w>eſes</w>
 				<w>urod&#x016B;</w>
-				<lb n="5"/>
+				<lb n="6"/>
 			</l>
 			<l>
 				<w>eggen</w>
@@ -180,13 +180,13 @@
 			<l>
 				<w>ſyrou</w>
 				<w>a<pc part="I" force="strong">x</pc>
-					<lb n="6"/>
+					<lb n="7"/>
 					<pc part="F" force="strong">/</pc>niath</w>
 				<w>thekunched</w>
 			</l>
 			<l>
 				<w>buabeleul</w>
-				<lb n="7"/>
+				<lb n="8"/>
 				<w>kyniuhhad</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
 			</l>
@@ -195,7 +195,7 @@
 			<l>
 				<w>Scemem</w>
 				<w>kunuel</w>
-				<lb n="8"/>
+				<lb n="9"/>
 				<w>arad</w>
 			</l>
 			<l>
@@ -205,7 +205,7 @@
 				<w>farad</w>
 
 				<pc force="weak" type="met" unit="l">x</pc>
-				<lb n="9"/>
+				<lb n="10"/>
 			</l>
 			<l>
 				<w>the</w>
@@ -216,7 +216,7 @@
 				<w>en</w>
 				<w>i&#x016B;
 										<pc force="strong" part="I">/</pc>
-					<lb n="10"/>
+					<lb n="11"/>
 					<pc part="F" force="strong">/</pc>hum</w>
 				<w>olelothya</w>
 			</l>
@@ -224,7 +224,7 @@
 		<lg n="5">
 			<l>
 				<w>Vylag</w>
-				<w>uila<lb n="11"/>ga</w>
+				<w>uila<lb n="12"/>ga</w>
 			</l>
 			<l>
 				<w>viragnak</w>
@@ -234,7 +234,7 @@
 			<l>
 				<w>keſeru
 				<pc force="strong" part="I">/</pc>
-					<lb n="12"/>
+					<lb n="13"/>
 					<pc part="F" force="strong">/</pc>en</w>
 				<w>kynʒathul</w>
 
@@ -243,7 +243,7 @@
 			<l>
 				<w>uoſ</w>
 				<w>ſcegegkel</w>
-				<lb n="13"/>
+				<lb n="14"/>
 				<w>werethul</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
 			</l>
@@ -253,7 +253,7 @@
 				<w>Vh</w>
 				<w>nequem</w>
 				<w>en</w>
-				<lb n="14"/>
+				<lb n="15"/>
 				<choice>
 					<sic>
 						<w>fyon</w>
@@ -270,14 +270,14 @@
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
 			<l>
-				<w>Scege<lb n="15"/>
+				<w>Scege<lb n="16"/>
 					<pc force="strong">/</pc>nul</w>
 				<w>ſcepſegud</w>
 			</l>
 			<l>
 				<w>wirud</w>
 				<w>hioll</w>
-				<lb n="16"/>
+				<lb n="17"/>
 				<w>wyʒeul</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
 			</l>
@@ -285,7 +285,7 @@
 		<lg n="7">
 			<l>
 				<w>Syrolmom</w>
-				<w>fuha<lb n="17"/>
+				<w>fuha<lb n="18"/>
 					<seg>/</seg>ʒatum</w>
 			</l>
 			<l>
@@ -294,7 +294,7 @@
 			</l>
 			<l>
 				<w>en</w>
-				<lb n="18"/>
+				<lb n="19"/>
 				<choice>
 					<sic>
 						<w>iumhumnok</w>
@@ -311,7 +311,7 @@
 				<w>qui</w>
 				<note cert="low">
 					<w>quí</w> [Írástechnikai változat]</note>
-				<lb n="19"/>
+				<lb n="20"/>
 				<w>ſumha</w>
 				<w>nym</w>
 				<del>
@@ -322,7 +322,7 @@
 				</add>
 				<note>Azonnali törlés.</note>
 				<pc force="weak" type="met" unit="lg">·</pc>
-				<lb n="20"/>
+				<lb n="21"/>
 			</l>
 		</lg>
 		<lg n="8">
@@ -336,14 +336,14 @@
 			</l>
 			<l>
 				<w>egge<pc force="strong">/</pc>
-					<lb n="21"/>dum</w>
+					<lb n="22"/>dum</w>
 				<w>illen</w>
 
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
 			<l>
 				<w>maraggun</w>
-				<w>uro<lb n="22"/>dum</w>
+				<w>uro<lb n="23"/>dum</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
 			<l>
@@ -360,7 +360,7 @@
 				<note>Tollhiba. A forrásban: <w>felleyn</w>
 				</note>
 				<pc force="weak" type="met" unit="lg">·</pc>
-				<lb n="23"/>
+				<lb n="24"/>
 			</l>
 		</lg>
 		<lg n="9">
@@ -372,7 +372,7 @@
 			</l>
 			<l>
 				<w>beʒʒeg</w>
-				<lb n="24"/>
+				<lb n="25"/>
 				<w>ſcouuo</w>
 				<w>ere</w>
 			</l>
@@ -381,7 +381,7 @@
 				<w>erʒem</w>
 				<w>eʒ</w>
 				<w>bu<pc force="strong">/</pc>
-					<lb n="25"/>thuruth</w>
+					<lb n="26"/>thuruth</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
 			<l>
@@ -389,7 +389,7 @@
 				<w>niha</w>
 				<w>egyre</w>
 				<pc force="weak" type="met" unit="lg">·</pc>
-				<lb n="26"/>
+				<lb n="27"/>
 			</l>
 		</lg>
 		<lg n="10">
@@ -410,7 +410,7 @@
 			<l>
 				<w>de</w>
 				<w>num</w>
-				<lb n="27"/>
+				<lb n="28"/>
 				<w>ualallal</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
@@ -419,7 +419,7 @@
 				<w>yg</w>
 				<w>kynʒaſſal</w>
 				<pc force="weak" type="met" unit="l">/</pc>
-				<lb n="28"/>
+				<lb n="29"/>
 			</l>
 			<l>
 				<w>fyom</w>
@@ -430,12 +430,12 @@
 		<lg n="11">
 			<l>
 				<w>Sydou</w>
-				<lb n="29"/>
+				<lb n="30"/>
 				<w>myth</w>
 				<w>theʒ</w>
 				<w>turuentelen</w>
 				<pc force="weak" type="met" unit="l">/</pc>
-				<lb n="30"/>
+				<lb n="31"/>
 			</l>
 			<l>
 				<w>fyom</w>
@@ -443,7 +443,7 @@
 				<w>hol</w>
 				<w>byuntelen</w>
 				<pc force="weak" type="met" unit="l">/</pc>
-				<lb n="31"/>
+				<lb n="32"/>
 			</l>
 			<l>
 				<w>fugwa</w>
@@ -452,7 +452,7 @@
 			<l>
 				<w>huʒtuʒwa</w>
 				<w>wklel<pc force="strong" part="I">/</pc>
-					<lb n="32"/>
+					<lb n="33"/>
 					<pc part="F" force="strong">/</pc>ue</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
@@ -467,7 +467,7 @@
 		</lg>
 		<lg n="12">
 			<l>
-				<w>Kegug<lb n="33"/>
+				<w>Kegug<lb n="34"/>
 					<pc force="strong">/</pc>gethuk</w>
 				<w>fyomnok</w>
 				<pc force="weak" type="met" unit="l">/</pc>
@@ -475,14 +475,14 @@
 			<l>
 				<w>ne</w>
 				<w>leg</w>
-				<lb n="34"/>
+				<lb n="35"/>
 				<w>kegulm</w>
 				<w>mogomnok</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
 			<l>
 				<w>owog</w>
-				<lb n="35"/>
+				<lb n="36"/>
 				<w>halal</w>
 				<w>kynaal</w>
 				<pc force="weak" type="met" unit="l">/</pc>
@@ -490,7 +490,7 @@
 			<l>
 				<w>anyath</w>
 				<w>eʒes</w>
-				<lb n="36"/>
+				<lb n="37"/>
 				<w>fyaal</w>
 				<pc force="weak" type="met" unit="l">/</pc>
 			</l>
